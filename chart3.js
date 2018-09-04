@@ -55,7 +55,40 @@ Highcharts.chart('graf3', {
     {
         name: 'Národní centrála proti organizovanémuzločinu SKPV',
         data: [null,null,null,52326,56950,61146]
+    },
+    {
+        name: 'Kriminalistický ústav Praha',
+        data: [38053,39603,41534,44119,47284,51797]
+    },
+    {
+        name: 'Pyrotechnická služba',
+        data: [42980,45852,51518,52706,55807,64924]
+    },
+    {
+        name: 'Národní protidrogová centrála SKPV',
+        data: [43412,44410,46045,49174,55122,58245]
+    },
+    {
+        name: 'Útvar zvláštních činností',
+        data: [38827,40143,41648,43121,46299,49264]
+    },
+    {
+        name: 'Ředitelství služby cizinecké policie',
+        data: [31995,32440,34293,36416,39019,41548]
+    },
+    {
+        name: 'Útvar pro ochranu prezidenta ČR',
+        data: [40108,40490,41901,46412,49465,52873]
+    },
+    {
+        name: 'Úřad dokumentace a vyšetřování zločinů komunismu SKPV',
+        data: [39834,40686,41839,45744,47353,56363]
+    },
+    {
+        name: 'Útvar policejního vzdělávání a služební přípravy',
+        data: [null,null,52116,46084,48752,51805]
     }
+
     ],
 
     responsive: {
